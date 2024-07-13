@@ -1,0 +1,1 @@
+uvicorn app:app --port 9000 --host 0.0.0.0 --workers 4

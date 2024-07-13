@@ -1,0 +1,7 @@
+__pycache__/
+*__pycache__
+*.code-workspace
+.DS_Store
+.vscode
+.env
+nohup.out

@@ -1,0 +1,7 @@
+fastapi==0.61.0
+python-dotenv
+pydantic
+bs4
+ojson
+requests
+uvicorn
